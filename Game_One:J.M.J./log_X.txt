@@ -1,0 +1,17 @@
+X:R:h8
+X:R:c8
+X:K:d2
+X:R:c6
+X:R:a6
+X:N:e2
+X:R:e6
+X:K:d3
+X:N:d4
+X:K:e4
+X:R:c6
+X:R:c4
+X:K:d3
+X:R:c1
+X:R:c2
+X:K:c3
+X:R:a2
